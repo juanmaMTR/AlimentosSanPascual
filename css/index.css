@@ -1,0 +1,12 @@
+header{
+    background-color: #2A79F7;
+    width: 100%;
+    height: auto;
+}
+header img{
+    width: 100%;
+    height: auto;
+}
+#comida{
+    float: right;
+}
